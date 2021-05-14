@@ -1,4 +1,3 @@
-//先抓到畫面上的cv元素
 var canvas = document.getElementById("mycanvas")
 var ctx = canvas.getContext("2d")
 
